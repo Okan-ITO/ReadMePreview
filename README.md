@@ -4,9 +4,9 @@ Small Description, what Project, which Client etc.
 
 
 ### Used By
-This project is used by the following companies:
-- Company 1
-- Company 2
+This project is used by:
+- Example
+- Example
 
 # Table of Contents
 - [Prerequisites](#prerequisites)
